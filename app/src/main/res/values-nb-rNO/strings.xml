@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Forelesning 3</string>
+    <string name="toast">Dette er en toast</string>
+    <string name="tekst">Dette er en app</string>
+    <string name="input">Skift farge</string>
+    <string name="knapp">Skift</string>
+</resources>

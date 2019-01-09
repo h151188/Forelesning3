@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lecture 3</string>
+    <string name="toast">This is a toast</string>
+    <string name="tekst">This is an app</string>
+    <string name="input">Change color</string>
+    <string name="knapp">Change</string>
+</resources>
