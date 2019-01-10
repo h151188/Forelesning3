@@ -5,4 +5,5 @@
     <string name="tekst">Dette er en app</string>
     <string name="input">Skift farge</string>
     <string name="knapp">Skift</string>
+    <string name="button_show_towns">Vis byer</string>
 </resources>

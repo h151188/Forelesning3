@@ -4,4 +4,5 @@
     <string name="tekst">This is an app</string>
     <string name="input">Change color</string>
     <string name="knapp">Change</string>
+    <string name="button_show_towns">Show Towns</string>
 </resources>
